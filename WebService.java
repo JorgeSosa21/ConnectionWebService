@@ -1,6 +1,6 @@
 public class WebService extends AsyncTask< String, String, String > {
     DataDownloaderListener dataDownloaderListener;
-    private static String URL_WEB = "http://gwldx.com/api/loginvalidate.php?";
+    private static String URL_WEB = "URL";
 
     protected void onPreExecute() {
 
